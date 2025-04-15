@@ -21,9 +21,6 @@ Este projeto é uma aplicação completa de **cadastro de usuários**, com front
 - [Vite](https://vitejs.dev/)
 - CSS (estilização simples)
 
-📁 Repositório do front-end:  
-🔗 [`registration-user-react`](https://github.com/reinaldo-matheus/registration-user-react)
-
 ---
 
 ### 🔹 Back-end
@@ -48,20 +45,17 @@ Este projeto é uma aplicação completa de **cadastro de usuários**, com front
 
 ## 📦 Como rodar o projeto localmente
 
-### 🔧 Back-end
+### 💻 Front-end
 
-```bash
-# Clone o repositório
-git clone https://github.com/reinaldo-matheus/back-end-registration-user-react
+### Clone o repositório
+git clone https://github.com/reinaldo-matheus/registration-user-react
 
-# Entre na pasta
-cd back-end-registration-user-react
+### Entre na pasta
+cd registration-user-react
 
-# Instale as dependências
+### Instale as dependências
 npm install
 
-# Rode as migrações Prisma (caso necessário)
-npx prisma generate
+### Rode o projeto
+npm run dev
 
-# Inicie o servidor
-node server.js
