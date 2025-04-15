@@ -46,7 +46,7 @@ Este projeto é uma aplicação completa de **cadastro de usuários**, com front
 
 ## 📦 Como rodar o projeto localmente
 
-### 🔧 Back-end
+### 🛠️ Back-end
 
 ```bash
 # Clone o repositório
@@ -67,7 +67,7 @@ node server.js
 
 ---
 
-### 💻 Front-end
+### 🪄 Front-end
 
 ```bash
 # Clone o repositório
