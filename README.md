@@ -16,14 +16,14 @@ Este projeto é uma aplicação completa de **cadastro de usuários**, com front
 
 ## 🚀 Tecnologias Utilizadas
 
-### 🔹 Front-end
+### 💻 Front-end
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - CSS (estilização simples)
 
 ---
 
-### 🔹 Back-end
+### ⚙️ Back-end
 - [Node.js](https://nodejs.org/)
 - [Express](https://expressjs.com/)
 - [Prisma](https://www.prisma.io/)
